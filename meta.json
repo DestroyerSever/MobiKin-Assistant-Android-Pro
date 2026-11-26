@@ -1,0 +1,23 @@
+{
+  "repo": "mobikin-assistant-android-professional",
+  "product": "MobiKin Assistant Android Pro",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "mobikin-assistant-android-pro",
+    "mobikin-assistant",
+    "mobikin-assistant-android",
+    "mobikin-assistant-pro",
+    "how-to-install-mobikin-assistant",
+    "how-to-setup-mobikin-assistant",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "MobiKin Assistant Android Pro"
+}
